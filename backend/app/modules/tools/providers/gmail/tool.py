@@ -1,0 +1,2 @@
+class GmailTool:
+    pass

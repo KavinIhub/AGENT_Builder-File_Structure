@@ -1,0 +1,2 @@
+class UISchema:
+    pass

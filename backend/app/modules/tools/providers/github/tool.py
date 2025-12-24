@@ -1,0 +1,2 @@
+class GithubTool:
+    pass

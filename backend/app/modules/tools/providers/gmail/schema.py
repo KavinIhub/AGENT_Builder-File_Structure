@@ -1,0 +1,2 @@
+class GmailSchema:
+    pass

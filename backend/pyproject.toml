@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "agent-backend"
+version = "0.1.0"
+description = ""
+authors = ["Admin <admin@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.100.0"
+uvicorn = "^0.23.0"
+celery = "^5.3.0"
+redis = "^5.0.0"
+alembic = "^1.11.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
